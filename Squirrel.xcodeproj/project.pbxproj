@@ -1563,6 +1563,7 @@
 					Carthage/Checkouts/ReactiveCocoa/ReactiveCocoa/extobjc,
 				);
 				INFOPLIST_FILE = "Squirrel/Squirrel-Info.plist";
+				LD_DYLIB_INSTALL_NAME = "$(DYLIB_INSTALL_NAME_BASE:standardizepath)/$(EXECUTABLE_PATH)";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.github.${PRODUCT_NAME:rfc1034identifier}";
 				WRAPPER_EXTENSION = framework;
 			};
@@ -1581,6 +1582,7 @@
 					Carthage/Checkouts/ReactiveCocoa/ReactiveCocoa/extobjc,
 				);
 				INFOPLIST_FILE = "Squirrel/Squirrel-Info.plist";
+				LD_DYLIB_INSTALL_NAME = "$(DYLIB_INSTALL_NAME_BASE:standardizepath)/$(EXECUTABLE_PATH)";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.github.${PRODUCT_NAME:rfc1034identifier}";
 				WRAPPER_EXTENSION = framework;
 			};
@@ -1647,6 +1649,7 @@
 					Carthage/Checkouts/ReactiveCocoa/ReactiveCocoa/extobjc,
 				);
 				INFOPLIST_FILE = "Squirrel/Squirrel-Info.plist";
+				LD_DYLIB_INSTALL_NAME = "$(DYLIB_INSTALL_NAME_BASE:standardizepath)/$(EXECUTABLE_PATH)";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.github.${PRODUCT_NAME:rfc1034identifier}";
 				WRAPPER_EXTENSION = framework;
 			};
@@ -1694,6 +1697,7 @@
 					Carthage/Checkouts/ReactiveCocoa/ReactiveCocoa/extobjc,
 				);
 				INFOPLIST_FILE = "Squirrel/Squirrel-Info.plist";
+				LD_DYLIB_INSTALL_NAME = "$(DYLIB_INSTALL_NAME_BASE:standardizepath)/$(EXECUTABLE_PATH)";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.github.${PRODUCT_NAME:rfc1034identifier}";
 				WRAPPER_EXTENSION = framework;
 			};
