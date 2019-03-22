@@ -130,10 +130,6 @@ static NSString * const SQRLUpdaterUniqueTemporaryDirectoryPrefix = @"update.";
 
 #pragma mark Lifecycle
 
-- (id)init {
-	NSAssert(NO, @"Use -initWithUpdateRequest: instead");
-	return nil;
-}
 
 - (id)initWithUpdateRequest:(NSURLRequest *)updateRequest {
 	NSParameterAssert(updateRequest != nil);
