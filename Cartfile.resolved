@@ -1,5 +1,5 @@
 github "Mantle/Mantle" "1.5.6"
 github "Quick/Nimble" "v2.0.0"
 github "Quick/Quick" "v0.7.0"
-github "ReactiveCocoa/ReactiveCocoa" "v2.5"
+github "crunchytech/ReactiveCocoa" "147042c945df7c94a9bb743a568621e14d922a2c"
 github "jspahrsummers/xcconfigs" "0.8.1"
