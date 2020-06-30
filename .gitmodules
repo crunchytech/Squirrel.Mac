@@ -6,7 +6,7 @@
 	url = https://github.com/Quick/Nimble.git
 [submodule "Carthage.checkout/ReactiveCocoa"]
 	path = Carthage/Checkouts/ReactiveCocoa
-	url = https://github.com/colossus689/ReactiveCocoa.git
+	url = https://github.com/crunchytech/ReactiveCocoa.git
 [submodule "Carthage.checkout/Quick"]
 	path = Carthage/Checkouts/Quick
 	url = https://github.com/Quick/Quick.git
