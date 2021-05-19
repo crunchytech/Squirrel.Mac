@@ -1575,6 +1575,7 @@
 				);
 				INFOPLIST_FILE = "Squirrel/Squirrel-Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.github.${PRODUCT_NAME:rfc1034identifier}";
+				VALID_ARCHS = "x86_64 arm64";
 				WRAPPER_EXTENSION = framework;
 			};
 			name = Debug;
@@ -1593,6 +1594,7 @@
 				);
 				INFOPLIST_FILE = "Squirrel/Squirrel-Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.github.${PRODUCT_NAME:rfc1034identifier}";
+				VALID_ARCHS = "x86_64 arm64";
 				WRAPPER_EXTENSION = framework;
 			};
 			name = Release;
@@ -1659,6 +1661,7 @@
 				);
 				INFOPLIST_FILE = "Squirrel/Squirrel-Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.github.${PRODUCT_NAME:rfc1034identifier}";
+				VALID_ARCHS = "x86_64 arm64";
 				WRAPPER_EXTENSION = framework;
 			};
 			name = Profile;
@@ -1706,6 +1709,7 @@
 				);
 				INFOPLIST_FILE = "Squirrel/Squirrel-Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.github.${PRODUCT_NAME:rfc1034identifier}";
+				VALID_ARCHS = "x86_64 arm64";
 				WRAPPER_EXTENSION = framework;
 			};
 			name = Test;
